@@ -3,4 +3,4 @@
 Description
 -----------
 
-* [Documents: ](https://gitlab.emse.fr/fabien.badeig/projetIndustriel-carteThematique/tree/master/docs) This folder contains project documents.
+* [Documents: ](docs/) This folder contains project documents.
